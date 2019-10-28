@@ -1,0 +1,2 @@
+# CAKE-COMPETITION-GAME-USING-AI
+This is a simple game named CAKE COMPETITION using Artificial Intelligence. There are two players in this game. There are some cake weights. Then the first player eats the cake he/she wants. Then the other players turn. He/She will eat the cake that the first player leaves. Then also eat an extra one. Finally, the total score will be calculated. Results can be a win, lose or draw depending on the score.
